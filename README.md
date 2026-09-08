@@ -47,3 +47,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=uichanjeong129&show_icons=true&theme=radical">
   <br><br>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?justicechan1=anuraghazra&show_icons=true&theme=radical)
