@@ -32,10 +32,10 @@
 
 | 프로젝트 | 설명 | 담당 |
 |---|---|---|
-| [AUTO EXPO](https://github.com/likelion-backend-24th/Final-Project-Team4) | 자동차 박람회 통합 운영 플랫폼 — Gemini 기반 차량 이미지 분석·소개문구 생성·자연어 검색·상담 요약 | Back-end / Front-end |
+| [MOBILITY EXPO](https://github.com/likelion-backend-24th/Final-Project-Team4) | 자동차 박람회 통합 운영 플랫폼 — Gemini 기반 차량 이미지 분석·소개문구 생성·자연어 검색·상담 요약 | Back-end (reservation·review 서비스, AI 호출 비용 개선) / 고객 화면 일부 |
 | [PetInside](https://github.com/likelion-backend-24th/like-lion-team3-PetInside) | 반려동물 집사 커뮤니티 — OAuth2 인증, PG 결제 동시성·보안 설계 | Back-end 부팀장 |
-| Trendy Trip (업로드 예정) | Gemini 임베딩 기반 제주 여행 감성 추천 서비스 | Back-end 전담 |
-| [한길 (flower-ocr-backend)](https://github.com/justicechan1/flower-ocr-backend) | Naver Clova OCR 기반 화환 문구 자동 인식 — 실사용 중 | 1인 개발 |
+| [Trendy Trip](https://github.com/justicechan1/trendytrip) | 감성 해시태그 기반 제주 여행 추천 서비스 | Back-end 전담 |
+| 한길 | Naver Clova OCR 기반 화환 문구 자동 인식 — 실사용 중 | 1인 개발 |
 | [MoneyLog (moneylog-backend)](https://github.com/justicechan1/moneylog-backend) | 개인 가계부 서비스 — 6일 기획~배포 단독 완주 | 1인 개발 |
 | [비파 키우기 (bipa-backend)](https://github.com/justicechan1/bipa-backend) | 목포 먹거리 여행 웹게임 백엔드 — TourAPI 데이터 파이프라인 | Back-end 전담 |
 
