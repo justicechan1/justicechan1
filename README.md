@@ -35,7 +35,7 @@
 | [MOBILITY EXPO](https://github.com/likelion-backend-24th/Final-Project-Team4) | 자동차 박람회 통합 운영 플랫폼 — Gemini 기반 차량 이미지 분석·소개문구 생성·자연어 검색·상담 요약 | Back-end (reservation·review 서비스, AI 호출 비용 개선) / 고객 화면 구현, shadcn/ui 도입 |
 | [PetInside](https://github.com/justicechan1/PetInside) | 반려동물 집사 커뮤니티 — OAuth2 인증, PG 결제 동시성·보안 설계 | Back-end 부팀장 |
 | [Trendy Trip](https://github.com/justicechan1/trendytrip) | 감성 해시태그 기반 제주 여행 추천 서비스 | Back-end API (FastAPI) |
-| 한길 | Naver Clova OCR 기반 화환 문구 자동 인식 — 실사용 중 | 1인 개발 |
+| 한길 | Naver Clova OCR 기반 화환 문구 자동 인식 — 실사용 중<br>🔒 실제 업무 데이터(화환 사진·문구)가 포함되어 저장소는 비공개 | 1인 개발 |
 | [MoneyLog (moneylog-backend)](https://github.com/justicechan1/moneylog-backend) | 개인 가계부 서비스 — 6일 기획~배포 단독 완주 | 1인 개발 |
 | [비파 키우기 (bipa-backend)](https://github.com/justicechan1/bipa-backend) | 목포 먹거리 여행 웹게임 백엔드 — TourAPI 데이터 파이프라인 | Back-end 전담 |
 | [MMU TALK](https://github.com/justicechan1/mmu_talk) | 목포해양대학교 학사 안내 챗봇 — Gemini · LangChain · FAISS | Gemini 프롬프트 설계 |
