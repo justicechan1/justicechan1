@@ -38,6 +38,7 @@
 | 한길 | Naver Clova OCR 기반 화환 문구 자동 인식 — 실사용 중 | 1인 개발 |
 | [MoneyLog (moneylog-backend)](https://github.com/justicechan1/moneylog-backend) | 개인 가계부 서비스 — 6일 기획~배포 단독 완주 | 1인 개발 |
 | [비파 키우기 (bipa-backend)](https://github.com/justicechan1/bipa-backend) | 목포 먹거리 여행 웹게임 백엔드 — TourAPI 데이터 파이프라인 | Back-end 전담 |
+| [MMU TALK](https://github.com/justicechan1/mmu_talk) | 목포해양대학교 학사 안내 챗봇 — Gemini · LangChain · FAISS | Gemini 프롬프트 설계 |
 
 ### 📊 Stat 📊
 
